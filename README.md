@@ -15,4 +15,4 @@ Follow the following:
 7. `yarn start` (have xcode and android simulator ready for viewing the mobile app window. 
 
 Preview:
-![](assets/weater-app.png)
+![](assets/weather-app.png)
