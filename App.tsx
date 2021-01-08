@@ -7,7 +7,7 @@ import {Selector} from './Components/Selector';
 import { Refresh } from "./Components/Refresh";
 import {Details} from './Components/Details';
 
-const API = "YOUR API KEY"; 
+const API = "API_KEY";
 const REQ_URL = "http://api.openweathermap.org/data/2.5/weather?";
 
 export default function App() {

@@ -31,6 +31,7 @@ const { border, primary, secondary } = colors;
 const styles = StyleSheet.create({
   name: {
     fontSize: 20,
+    color:'blue',
     textTransform: "uppercase",
   },
   weainfo: {
