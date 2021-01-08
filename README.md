@@ -13,3 +13,6 @@ Follow the following:
       - go to API page on the website, select Current Weather Data API for more info
     
 7. `yarn start` (have xcode and android simulator ready for viewing the mobile app window. 
+
+Preview:
+![](assets/weater-app.png)
